@@ -1,5 +1,7 @@
+import { ReadStream, WriteStream, createWriteStream } from 'fs';
+
 async function main() {
-    console.log('hi');
+
 };
 
 
