@@ -37,6 +37,7 @@
     "eslint": "^8.16.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
+    "googleapis": "^100.0.0",
     "husky": "^8.0.1",
     "jest": "^28.1.0",
     "ts-node": "^10.8.0",
